@@ -12,7 +12,7 @@
 
 *MENTOR*: Neela Santhosh
 
-#Automated Report Generation – Task 2 Description
+# Automated Report Generation – Task 2 Description
 
 1. Introduction :
 
@@ -77,3 +77,7 @@ Such automation is widely used in organizations to save time, reduce manual effo
 9. Conclusion :
 
 In conclusion, the Automated Report Generation task successfully demonstrates the use of Python for automating report creation. By reading data from a CSV file, performing analysis, and generating a formatted PDF using the ReportLab library, a complete end-to-end automation solution was developed. This task improved practical skills in file handling, data processing, and document generation. It also provided a clear understanding of how automation can be applied in real-world professional environments to improve efficiency, accuracy, and productivity.
+
+# OUTPUT
+
+[Automated_Report.pdf](https://github.com/user-attachments/files/24734832/Automated_Report.pdf)
